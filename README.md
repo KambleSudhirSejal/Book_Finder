@@ -1,16 +1,47 @@
-# React + Vite
+#  Book Finder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Discover your next great read — instantly!  
+**Book Finder** is a modern web app built with **React.js** and **Vite**, allowing users to search and explore books with ease. It features a beautiful UI, theme toggle, and live API integration.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Live Demo  
+ [Visit the App on Vercel]  -> (https://book-finder-sp2b.vercel.app)
 
-## React Compiler
+ ##  Features
+- Search books ->  by title or author in real time  
+-  Light / Dark mode -> theme toggle  
+-  Built with React + Vite -> for super-fast performance  
+-  Fully responsive -> design for all devices  
+-  Book details preview -> with smooth UI animations
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+##  Tech Stack
+- Frontend: React.js, Vite  
+- Styling: Tailwind CSS  
+- Deployment: Vercel  
+- API: Open Library API
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Getting Started
+
+### 1 .  Clone the Repository
+bash
+git clone https://github.com/KambleSudhirSejal/Book_Finder.git
+cd Book_Finder
+
+### 2️.  Install Dependencies
+npm install
+
+### 3 . Run the App
+npm run dev
+
+### 4 . Open in Browser
+http://localhost:5173
+
+### Author
+Sejal Kamble
+github link - > https://github.com/KambleSudhirSejal/
+
+### Deployment
+This project is deployed on Vercel — every new commit to the main branch triggers an automatic redeploy.
+ 
